@@ -1,6 +1,6 @@
 # Magnetic-Sensors-for-Arduino
 A demonstration of digital and analog magnetic sensors for Arduino boards.
-Really simle sketches becasue these parts are really simple to interface. 
+These are really simple sketches because these are really simple to interface parts.
 Live demonstration at:
 https://www.nve.com/Videos/video-page.php?video=Arduino&title=Magnetic%20Sensors%20for%20Arduino
  
