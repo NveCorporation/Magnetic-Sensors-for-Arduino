@@ -10,4 +10,4 @@ Arduino Uno. Sensor OUT+ on IO0 and OUT- on IO1. Amplified PWM output on IO3.
  
 "AD-Sensor-LED-demo"
 Reads an open-collector AD-Series digital magnetic sensor with an Arduino Uno. 
-Sensor output on IO2; the Arduino drives an LED (through a series resistor) on IO13.
+Sensor output on IO2; the on-board Arduino LED (on IO13) indicates the sensor output.
